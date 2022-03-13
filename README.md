@@ -17,7 +17,7 @@
 </p>
 
 
-![logo]BOLT SER.jpg
+![logo]20220313_143457.jpg
 
 
 
@@ -70,7 +70,7 @@ Bot owner , Bug fixer , module fixer|
 [Chethana_Broh-TeenuhX](https://github.com/TOXIC-DEVIL)  |
 Group owner , Supporter , bug fixer |
 
-![logo]BOLT SER.jpg
+![logo]20220313_143457.jpg
 
 
 
