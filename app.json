@@ -1,9 +1,9 @@
 {
-    "name": "BlackPanther",
-    "description": "Meenakshi - Whatsapp Bot",
+    "name": "Bolt Ser",
+    "description": "BOLT-SER-BOT-OFFICIAL - Whatsapp Bot",
     "logo": "https://telegra.ph/file/182cd811e8a0a0984931c.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Chamodya-official/Queen-Alexa",
+    "repository": "https://github.com/BOLT-SER/BOLT-SER-BOT-OFFICIAL",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
