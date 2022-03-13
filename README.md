@@ -1,16 +1,16 @@
 
-##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁
+##  ⦁═BOLT-SER-BOT-OFFICIAL═⦁
 
 
-    Queen alexa is the whatsapp bot project.
+    BOLT-SER-BOT-OFFICIAL is the whatsapp bot project.
     it can help us to any work in some command.
     This is a best whatsapp robot with artificial intelligent.
 
 
 <p align="center">
-    <a href="https://github.com/Chamodya-official">
+    <a href="https://github.com/BOLT-SER">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Queen+alexa...+Thank+You+For+Visiting+us...."
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+BOLT-SER+BOT-OFFICIAL...+Thank+You+For+Visiting+us...."
             alt="Typing SVG"
         />
     </a>
@@ -22,25 +22,17 @@
 
 
 
-### 🧚‍♀️ALEXA TEAM💫
+### 🧚‍♀️BOLT TEAM💫
 
 
-👨‍💻  EN cuzier *[ Owner ]*
+👨‍💻  BOLT SER *[ Owner ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94770828171)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+917695878726)
 
 
-👨‍💻  Chethana bro [ Supporter, bug fixer ]
+👨‍💻  KING SER [ Supporter, bug fixer ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-Whatsapp-blue.svg)](https://Wa.me/+94766598862)
-
-👨‍💻  Thimira bro  [ Helper & information Founder]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94781508896)
-
-👨‍💻 Himasha bro   [  Erorr founder ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94762657701)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-Whatsapp-blue.svg)](https://Wa.me/+17058059501)
 
 **╭──⦁ Simple method ⦁──╮**
 
@@ -49,26 +41,10 @@
 
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chamodya-official/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOLT-SER/BOLT-SER-BOT-OFFICIAL)
 
 
-## 👨‍💻 Sponser & Supporter 👨‍💻
 
- [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  
-----|
-[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  |
-Helper , Supporter , public module |
-
-[![Chethana_Broh-TeenuhX](https://github.com/En-Cuzier.png?size=100)](https://https://youtu.be/mcEeIspWOpY) |
-----|
-[EN_cuzier](https://github.com/TOXIC_DEVIL)  |
-Bot owner , Bug fixer , module fixer|
-
-
-[![Chethana_Broh](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY) |
-----|
-[Chethana_Broh-TeenuhX](https://github.com/TOXIC-DEVIL)  |
-Group owner , Supporter , bug fixer |
 
 ![logo]20220313_143457.jpg
 
@@ -76,4 +52,4 @@ Group owner , Supporter , bug fixer |
 
 
 
- **🧚‍♀️Thanks For using QUEEN ALEXA💫**
+ **🧚‍♀️Thanks For using BOLT-SER-BOT-OFFICIAL💫**
